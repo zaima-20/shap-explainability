@@ -3,7 +3,7 @@
 Train a Random Forest on the scikit-learn breast cancer dataset, then use SHAP to explain it:
 which features matter most overall, and why the model made one specific prediction.
 
-![Beeswarm plot](images/shap_beeswarm.png)
+![Beeswarm plot](plots/shap_beeswarm.png)
 
 ## Results
 
